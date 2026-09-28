@@ -1,6 +1,6 @@
 module_name = "Student Details"
 
-name = "rohan"
+name = "student name"
 age = 20
 course = "Computer Science"
 marks = 85
